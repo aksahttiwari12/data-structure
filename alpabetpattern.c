@@ -10,12 +10,3 @@ void main(){
         printf("\n");
         }
 }
-//Function & Recursion	Program to find if the given no is a palindrome
-//Function & Recursion	Write a program to find mean and median of five numbers using function
-//Function & Recursion	Factorial of a number using tail recursion
-//Function & Recursion	Write a program to print all perfect numbers in given range using the function.
-//Function & Recursion	Display Prime Numbers Between Intervals Using Function
-//Function & Recursion	Armstrong number in the range
-//Function & Recursion	Strong numbers less than or equal to N
-//Function & Recursion	gcd of two numbers
-//Function & Recursion	lcm of two numbers//
